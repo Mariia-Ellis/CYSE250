@@ -1,2 +1,3 @@
 # CYSE250
-group project for 2 factor authentication
+group project 
+https://mariia-ellis.github.io/CYSE250/
